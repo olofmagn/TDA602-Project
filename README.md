@@ -1,1 +1,1 @@
-See folder `out` for the pdf of the project 'Investigation of Java Language Security Past and present' at Chalmers.
+See folder `out` for the labs and the project for the course TDA602 at Chalmers.
